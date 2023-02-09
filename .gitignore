@@ -1,3 +1,6 @@
+# for frontend
+frontend/elite_deus/node_modules/
+
 # Logs
 backend/logs
 backend/*.log
